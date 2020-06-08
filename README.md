@@ -1,2 +1,2 @@
 # HackRank-Solutions
-Solved problems on hackerrank
+Solved problems of hackerrank
